@@ -33,14 +33,13 @@ I'm certified in Selenium Automation Testing, and I stay up-to-date with the lat
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="28" alt="Selenium" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="28" alt="Eclipse" style="margin-right: 4px">  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 4px"></div>
 
  **<h3 align="left">My GitHub History!</h3>**
-
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedSaddiqM&theme=github_dark_dimmed&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedSaddiqM&theme=github-dark-dimmed&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedSaddiqM&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&rank_icon=github" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedSaddiqM&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSaddiqM&theme=github_dark_dimmed&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaddiqM&repo=MohamedSaddiqM/MohamedSaddiqM&theme=github_dark_dimmed&cache_seconds=1800&border_radius=5&show_owner=false&hide_border=false" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSaddiqM&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+(https://github.com/MohamedSaddiqM/MohamedSaddiqM/blob/output/github-contribution-grid-snake.svg)
